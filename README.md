@@ -36,5 +36,16 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - Deuteronomy
 - Josue (Joshua)
 
-Ruth
-1 Kings
+### Rest of Old Testament
+- Ruth
+- 1 Kings
+
+### Deuterocanonical books
+- Tobias (Tobit)
+- Judith
+- Wisdom
+- Baruch
+- 1 Machabees
+- 2 Machabees
+
+
