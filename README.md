@@ -8,7 +8,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - Matthew
 - Mark
 - Luke 
-- [John](CatholicVideoBibleData/NT/John)
+- [John](https://github.com/TrackDR/CatholicVideoBibleData/tree/main/NT/John)
 - Acts of the Apostles
 
 #### Paul's Letters
