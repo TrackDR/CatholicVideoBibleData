@@ -27,9 +27,9 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - Philemon
 - Hebrews
 
-Old Testament
+## Old Testament
 
-Pentateuch
+### Pentateuch
 - Genesis
 - Exodus
 - Leviticus
