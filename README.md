@@ -41,11 +41,11 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 ## Old Testament
 
 ### Pentateuch
-- [Genesis](OT/Genesis)
-- [Exodus](OT/Exodus)
+- [Genesis](OT/Genesis) - [(YouTube)](https://www.youtube.com/playlist?list=PLHFK8vsMjzv7KiSpIUY6TUaejd4aK1elt)
+- [Exodus](OT/Exodus) - [(YouTube)](https://www.youtube.com/playlist?list=PLHFK8vsMjzv69gcGM5BoMDVjbJ7ifSRsQ)
 - Leviticus
 - Deuteronomy
-- [Josue (Joshua)](OT/Josue)
+- [Josue (Joshua)](OT/Josue) - [(YouTube)](https://www.youtube.com/playlist?list=PLCtMyepA6BqBT5VzsSA6luDNNlnef7s13)
 
 ### Rest of Old Testament
 - Ruth
@@ -82,9 +82,9 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - Malachias (Malachi)
 
 ### Deuterocanonical books
-- [Tobias (Tobit)](OT/Tobias)
+- [Tobias (Tobit)](OT/Tobias) - [(YouTube)](https://www.youtube.com/playlist?list=PLCtMyepA6BqDbokng-xJXkM3EMQ3wYhox)
 - Judith
-- [Wisdom](OT/Wisdom)
+- [Wisdom](OT/Wisdom) - [(YouTube)](https://www.youtube.com/playlist?list=PLCtMyepA6BqCYThYU2n78HZ7fYbu6RjV9)
 - Baruch
 - 1 Machabees
 - 2 Machabees
