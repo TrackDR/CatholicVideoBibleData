@@ -5,7 +5,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 ## New Testament
 
 ### Gospels
-- Matthew
+- [Matthew](NT/Matthew)
 - Mark
 - Luke 
 - [John](NT/John)
