@@ -42,7 +42,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 
 ### Pentateuch
 - [Genesis](OT/Genesis)
-- Exodus
+- [Exodus](OT/Exodus)
 - Leviticus
 - Deuteronomy
 - Josue (Joshua)
