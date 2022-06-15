@@ -7,9 +7,9 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 ### Gospels
 - [Matthew](NT/Matthew)
 - [Mark](NT/Mark)
-- Luke 
+- [Luke](NT/Luke) 
 - [John](NT/John)
-- Acts of the Apostles
+- [Acts of the Apostles](NT/Acts)
 
 #### Paul's Letters
 - Romans
