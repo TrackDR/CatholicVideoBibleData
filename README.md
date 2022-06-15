@@ -8,7 +8,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - Matthew
 - Mark
 - Luke 
-- [John](https://github.com/TrackDR/CatholicVideoBibleData/tree/main/NT/John)
+- [John](NT/John)
 - Acts of the Apostles
 
 #### Paul's Letters
@@ -84,7 +84,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 ### Deuterocanonical books
 - Tobias (Tobit)
 - Judith
-- Wisdom
+- [Wisdom](OT/Wisdom)
 - Baruch
 - 1 Machabees
 - 2 Machabees
