@@ -6,7 +6,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 
 ### Gospels
 - [Matthew](NT/Matthew)
-- Mark
+- [Mark](NT/Mark)
 - Luke 
 - [John](NT/John)
 - Acts of the Apostles
