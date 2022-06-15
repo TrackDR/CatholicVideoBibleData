@@ -1,4 +1,4 @@
-# Book of Psalms
+# Book of Psalms 
 
 ## Psalms 1: [txt](../../txts/Psalms_1aarm.txt), [pdf](../../pdfs/Psalms_1.pdf)
 - 1 [insta](../../insta/Psalms/Psalms1-1-insta-title.jpg), [story](../../stories/Psalms/Psalms1-1-insta-title-story.jpg), [tiktok](), [instagram]()
