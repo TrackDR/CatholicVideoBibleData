@@ -8,7 +8,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - [Matthew](NT/Matthew)
 - [Mark](NT/Mark)
 - [Luke](NT/Luke) 
-- [John](NT/John) [YouTube](https://www.youtube.com/playlist?list=PLCtMyepA6BqAcrFDAOa0TL2z8Cyy95QCR)
+- [John](NT/John) - [(YouTube)](https://www.youtube.com/playlist?list=PLCtMyepA6BqAcrFDAOa0TL2z8Cyy95QCR)
 - [Acts of the Apostles](NT/Acts)
 
 #### Paul's Letters
