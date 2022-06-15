@@ -45,7 +45,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - [Exodus](OT/Exodus)
 - Leviticus
 - Deuteronomy
-- Josue (Joshua)
+- [Josue (Joshua)](OT/Josue)
 
 ### Rest of Old Testament
 - Ruth
@@ -82,7 +82,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - Malachias (Malachi)
 
 ### Deuterocanonical books
-- Tobias (Tobit)
+- [Tobias (Tobit)](OT/Tobias)
 - Judith
 - [Wisdom](OT/Wisdom)
 - Baruch
