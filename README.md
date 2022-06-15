@@ -41,7 +41,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 ## Old Testament
 
 ### Pentateuch
-- Genesis
+- [Genesis](OT/Genesis)
 - Exodus
 - Leviticus
 - Deuteronomy
