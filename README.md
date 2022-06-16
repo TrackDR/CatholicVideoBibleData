@@ -60,7 +60,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - Esther
 - Job
 - [Psalms](OT/Psalms)
-- Provebs
+- [Provebs](OT/Proverbs)
 - Ecclesiastes
 - Canticles (Solomon)
 - Isaias (Isaiah)
