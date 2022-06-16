@@ -12,7 +12,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - [Acts of the Apostles](NT/Acts)
 
 #### Paul's Letters
-- [Romans](Romans)
+- [Romans](NT/Romans)
 - 1 Corinthians
 - 2 Corinthians
 - Galatians
