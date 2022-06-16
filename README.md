@@ -63,7 +63,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - [Provebs](OT/Proverbs)
 - Ecclesiastes
 - Canticles (Solomon)
-- Isaias (Isaiah)
+- [Isaias (Isaiah)](OT/Isaias)
 - Jeremias (Jeremiah)
 - Lamentations
 - Ezechiel (Ezekiel)
