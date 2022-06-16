@@ -85,6 +85,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - [Tobias (Tobit)](OT/Tobias) - [(YouTube)](https://www.youtube.com/playlist?list=PLCtMyepA6BqDbokng-xJXkM3EMQ3wYhox)
 - Judith
 - [Wisdom](OT/Wisdom) - [(YouTube)](https://www.youtube.com/playlist?list=PLCtMyepA6BqCYThYU2n78HZ7fYbu6RjV9)
+- Ecclesiasticus (Sirach)
 - Baruch
 - 1 Machabees
 - 2 Machabees
