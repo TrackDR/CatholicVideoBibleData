@@ -58,7 +58,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - 1 Esdras (Ezra)
 - 2 Esdras (Nehemiah)
 - Esther
-- Job
+- [Job](OT/Job)
 - [Psalms](OT/Psalms)
 - [Provebs](OT/Proverbs)
 - Ecclesiastes
