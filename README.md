@@ -1,6 +1,8 @@
 # CatholicVideoBibleData
 
 Data created from https://github.com/TrackDR/CatholicVideoBible
+- https://github.com/TrackDR/CatholicVideoBible/blob/master/gen-readme-md-book.py
+- https://github.com/TrackDR/CatholicVideoBible/blob/master/generateallbibleverseimages-title2.py
 
 ## New Testament
 
