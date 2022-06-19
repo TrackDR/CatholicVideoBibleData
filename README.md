@@ -15,8 +15,8 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 
 #### Paul's Letters
 - [Romans](NT/Romans)
-- 1 Corinthians
-- 2 Corinthians
+- [1 Corinthians](NT/1_Corinthians)
+- [2 Corinthians](NT/2_Corinthians)
 - Galatians
 - Ephesians
 - Philippians
