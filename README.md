@@ -19,7 +19,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - [1 Corinthians](NT/1_Corinthians)
 - [2 Corinthians](NT/2_Corinthians)
 - [Galatians](NT/Galatians)
-- Ephesians
+- [Ephesians](NT/Ephesians)
 - Philippians
 - Colossians
 - 1 Thessalonians
