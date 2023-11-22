@@ -18,7 +18,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - [Romans](NT/Romans)
 - [1 Corinthians](NT/1_Corinthians)
 - [2 Corinthians](NT/2_Corinthians)
-- Galatians
+- [Galatians](NT/Galatians)
 - Ephesians
 - Philippians
 - Colossians
