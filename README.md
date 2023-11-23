@@ -21,7 +21,7 @@ Data created from https://github.com/TrackDR/CatholicVideoBible
 - [2 Corinthians](NT/2_Corinthians)
 - [Galatians](NT/Galatians)
 - [Ephesians](NT/Ephesians)
-- [Philippians](NY/Philippians)
+- [Philippians](NT/Philippians)
 - Colossians
 - 1 Thessalonians
 - 2 Thessalonians
